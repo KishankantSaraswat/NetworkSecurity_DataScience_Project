@@ -1,3 +1,11 @@
 python.dotenv
 pandas
 numpy
+pymongo
+flask
+flask-cors
+flask-pymongo
+flask-restful
+
+
+# -e.
